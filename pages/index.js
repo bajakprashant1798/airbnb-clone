@@ -10,7 +10,7 @@ import SmallCard from '../components/SmallCard'
 export default function Home({ exploreDate, cardsDate }) {
 
   return (
-    <div className="">
+    <div>
       <Head>
         <title>Airbnb clone</title>
         <link rel="icon" href="/favicon.ico" />
